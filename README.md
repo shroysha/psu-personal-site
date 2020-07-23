@@ -1,7 +1,7 @@
 # psu-personal-site
 
 ## Description
-null
+Personal site at PSU Mont Alto
 
 ### Tags
 [Groovy]
